@@ -18,6 +18,7 @@ Note: Python 3.8 is the minimum requirement version.
 
 ```
 Note: In case there is no [Data](https://gitlab.windenergy.dtu.dk/brofa/v52-strain-gauge-calibration/-/tree/main/Data) already available and V52 is the wanted turbine, remember to connect to DTU VPN.
+Note2: A "Data" folder is then needed, with high frequency strain gauges signals in one subfolder and lower frequency yaw angle (e.g. 1 min data) in another subfolder. If Yaw is not available, one can avoid it, but the identification of Yaw sweeps will take longer as all parked conditions will be tried.
 
 
 ## Project Overview:
