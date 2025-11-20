@@ -1,8 +1,5 @@
 # V52 Tower Strain Gauges Calibration
 
-***Note:*** Let's have a look on the [V52 Tower Strain Gauges Calibration project](https://gitlab.windenergy.dtu.dk/brofa/v52-strain-gauge-calibration/-/tree/main/) if you want to keep track on the commits. 
-
-
 ## Installation:
 
 ```
