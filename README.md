@@ -3,7 +3,6 @@
 ## Installation:
 
 ```
-**update on 02/05 :(**
 
 on the repo folder:
 pip install -e .
