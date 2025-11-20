@@ -3,8 +3,7 @@ from setuptools import setup
 
 from pathlib import Path
 this_directory1 = Path(__file__).parent
-this_directory = this_directory1.joinpath('yaw_sweep_sg_cali')
-long_description = (this_directory / "README.md").read_text()
+long_description = (this_directory / "yaw_sweep_sg_cali" / "README.md").read_text()
 
 
 setup(name='yaw_sweep_sg_cali',
