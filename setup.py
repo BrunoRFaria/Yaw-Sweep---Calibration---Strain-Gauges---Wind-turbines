@@ -7,7 +7,7 @@ this_directory = Path(__file__).parent
 long_description = (this_directory / "README.md").read_text(encoding="utf-8")
 
 setup(name='yaw_sweep_sg_cali',
-version='3.3',
+version='4.0',
 description='Package to generate the strain gauge calibration factors when those are placed on wind turbine towers. Based on idling operations, so called, yaw sweeps.', 
 long_description = long_description,
 long_description_content_type='text/markdown',
