@@ -2,7 +2,7 @@ from setuptools import setup
 # read the contents of your README file
 
 from pathlib import Path
-this_directory1 = Path(__file__).parent
+this_directory = Path(__file__).parent
 long_description = (this_directory / "yaw_sweep_sg_cali" / "README.md").read_text()
 
 
